@@ -16,13 +16,13 @@ The Belly Button Biodiversity Dashboard offers several features for data explora
 
 3. Horizontal Bar Chart: The bar chart showcases the top 10 microbial species found in the selected test subject's belly button. The chart represents the sample values (abundance) of each species, with the species labels displayed on the y-axis and the sample values on the x-axis.
 
-![image 1](https://github.com/Jeantherapy/Belly_Button_Biodiversity/blob/main/Images/Horizontal%20Chart.png)
+  ![image 1](https://github.com/Jeantherapy/Belly_Button_Biodiversity/blob/main/Images/Horizontal%20Chart.png)
 
 4. Bubble Chart: The bubble chart visualizes the distribution of microbial species across the selected test subject's belly button sample. Each bubble represents a specific microbial species, and its size corresponds to its abundance. The x-axis represents the OTU (Operational Taxonomic Unit) ID, and the y-axis represents the sample values.
   ![image 2](https://github.com/Jeantherapy/Belly_Button_Biodiversity/blob/main/Images/Gauge%20Chart.png)
 
 5. Gauge Chart: The gauge chart displays the belly button washing frequency of the selected test subject. It represents the number of times the individual cleans their belly button per week using a gauge-like visualization.
-  ![image 3](https://github.com/Jeantherapy/School_District_Analysis/blob/main/D1.png)
+  ![image 3](https://github.com/Jeantherapy/Belly_Button_Biodiversity/blob/main/Images/Bubble%20Chart.png)
 
 **Customization and Extension**
 The Belly Button Biodiversity Dashboard can be customized and extended in several ways:
